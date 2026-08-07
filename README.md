@@ -6,5 +6,5 @@ locating Karnel state without modifying it.
 
 ```bash
 karnel plugin install karnel-env-paths
-karnel-env-paths
+karnel karnel-env-paths
 ```
